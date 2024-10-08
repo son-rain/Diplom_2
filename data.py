@@ -27,7 +27,7 @@ class BurgerApiData:
         "name": ''
     }
 
-    PATCH_DATA = [{"email": 'rtrtrt@ya.ru'},
+    PATCH_DATA = [{"email": 'rtrtr88t@ya.ru'},
                   {"password": 'wefefefefefefe'},
                   {"name": 'sdvfsghgfddfgrd'}]
 
